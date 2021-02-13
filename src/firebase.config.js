@@ -1,6 +1,7 @@
 import firebase from 'firebase'
 
 var firebaseConfig = {
+  // comment
 
 };
   
